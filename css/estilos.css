@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://user-images.githubusercontent.com/6691477/81620609-b18d7e00-93c2-11ea-9156-8212a70b0326.jpg');
+    background-size: auto 100vh;
+      font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+    height: 100vh;
+  }
+   .menu{
+      background-color: white;
+    }
+  
+  .menu li{
+    list-style:none;
+  }
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+  }
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  /*Pegando mesma referencia titulo e subtitulo só separar por virgula*/
+  .site-subtitle,.site-title{
+    text-align: center;
+    color: whitesmoke;
+  }
+  .sub-title{
+    font-style
+  }
